@@ -19,7 +19,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/revou-fundamental-course/29-apr-24-bayufadayan/)
+   git clone https://github.com/bayufadayan/ascadia-travel-agency/)
 
 2. Open index.html in your browser to view the website.
 
