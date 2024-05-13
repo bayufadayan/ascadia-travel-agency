@@ -469,14 +469,54 @@ footer {
         padding-bottom: 0.3rem;
     }
 
+    nav ul{
+      justify-content: center;
+      gap: 4px;
+      /* margin-block: 0.1rem; */
+    }
+
     nav .logo-brand{
-        min-width: 50%;
+        min-width: 65%;
         display: flex;
         align-items: center;
     }
 
+    .header-section{
+      margin-top: 1.5rem;
+    }
+
+    .header-section h1{
+      font-size: xx-large;
+    }
+
+    .header-section p{
+      font-size: medium;
+    }
+
+    .main-content{
+      padding: 0;
+    }
+
+    .review-card{
+      padding: 0.9rem;
+    }
+
+    .service-container .number{
+      min-width: 48px;
+    }
+
+    .banner-slider{
+      max-height: 225px;
+    }
+
+    main h2{
+      text-align: center;
+    }
+
     .contact-us{
         width: 90%;
+        margin-inline: 0;
+        padding-inline: 1rem;
     }
 
     .package-card{
